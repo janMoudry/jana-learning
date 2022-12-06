@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test_task_0": "node ./Zadání/task_0.js",
+    "test_task_1": "node ./Zadání/task_1.js",
+    "test_task_2": "node ./Zadání/task_2.js",
+    "Další spusť až budeš chtít": "otestovat správnost",
+    "tests_task_0": "node ./tests/task_0.js",
+    "tests_task_1": "node ./tests/task_1.js",
+    "tests_task_2": "node ./tests/task_2.js"
+  }
+}
